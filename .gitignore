@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+# never commit secrets / identities
+*.pem
+identity*.json
+seed*.txt
